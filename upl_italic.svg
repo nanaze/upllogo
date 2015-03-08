@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="400px" height="300px" version="1.1"
+ xmlns = 'http://www.w3.org/2000/svg'>  
+  <defs>
+    <style type="text/css">
+
+      @import url(http://fonts.googleapis.com/css?family=Lilita+One);
+      @import url(http://fonts.googleapis.com/css?family=Tienne);
+
+      .upl {
+      font-family: 'Lilita One';
+      font-size: 100px;
+      font-style: italic;
+      }
+      .text {
+      font-family: Tienne;
+      font-size: 24px;
+      }
+      
+   </style>
+  </defs>
+  <g transform="translate(20)">
+    <text x="0" y="100" class="upl">UPL</text>
+  </g>
+  <g transform="translate(194)">
+    <text x="8" y="48" class="text">Undergraduate</text>
+    <text x="4" y="74" class="text">Projects</text>
+    <text y="100" class="text">Lab</text>
+  </g>
+</svg>
