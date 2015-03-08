@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="450px" height="300px" version="1.1"
+ xmlns = 'http://www.w3.org/2000/svg'>  
+  <defs>
+    <style type="text/css">
+
+      @import url(http://fonts.googleapis.com/css?family=Open+Sans);
+      @import url(http://fonts.googleapis.com/css?family=Plaster);
+
+      .upl {
+      font-family: 'Plaster';
+      font-size: 100px;
+      fill: #b3deff;
+      stroke:#003058;
+      stroke-width:1px;
+      stroke-opacity:1;
+      font-weight: 700;
+
+      }
+      .text {
+      font-family: 'Open Sans';      
+      font-size: 24px;
+      font-weight: bold; 
+      fill: #003058;
+      }
+      
+   </style>
+  </defs>
+  <g transform="translate(20)">
+    <text x="0" y="100" class="upl">UPL</text>
+  </g>
+  <g transform="translate(250)">
+    <text y="48" class="text">Undergraduate</text>
+    <text y="74" class="text">Projects</text>
+    <text y="100" class="text">Lab</text>
+  </g>
+</svg>
